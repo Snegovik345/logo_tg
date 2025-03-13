@@ -1,0 +1,10 @@
+0 Google
+1 Nvidia
+2 Apple
+3 Microsoft
+4 PlayStation
+5 Tesla
+6 Amazon
+7 Xbox
+8 Samsung
+9 Lego
